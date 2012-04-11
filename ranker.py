@@ -40,5 +40,3 @@ while choice != 3:
         viewDatabase()
     elif choice == 2:
         addRecords()
-
-
